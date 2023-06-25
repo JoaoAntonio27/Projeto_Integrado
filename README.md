@@ -13,6 +13,8 @@ Projeto integrado com as materias Construção de Software para WEB, Design e De
 - [Pedro Henrique Semensato Denadai](https://github.com/PedroDenadai)
 - [Arthur Ribeiro Silva](https://github.com/arthurrsilva)
 - [Tallis Anholeti Azevedo](https://github.com/tallisazevedo)
+- [Gustavo Oliveira Schade](https://github.com/guschade)
+- [Vanute Santos Rossi](https://github.com/vanuterossi)
 
 ##  Objetivo
 
